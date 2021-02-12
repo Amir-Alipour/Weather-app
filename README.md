@@ -1,5 +1,7 @@
 # create with React and use openweather API
 
+## (Just For Phones)
+
 -------------------------------------------
 
 # Getting Started with Create React App
