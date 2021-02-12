@@ -1,4 +1,4 @@
-#create with React and use openweather API
+# create with React and use openweather API
 
 -------------------------------------------
 
