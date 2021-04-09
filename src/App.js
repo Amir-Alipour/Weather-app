@@ -1,6 +1,6 @@
 import React, { useState, Fragment } from "react"
 const api = {
-    key: "b02e0c45bbad23e31084295167879966",
+    key: "yourApiKey",
     base: "https://api.openweathermap.org/data/2.5/",
 }
 
